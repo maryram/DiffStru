@@ -1,0 +1,33 @@
+setting... -N 50
+setting... -k 15
+setting... -maxk 20
+setting... -mu 0.1
+setting... -on 0
+setting... -om 0
+
+**************************************************************
+number of nodes:	50
+average degree:	15
+maximum degree:	20
+exponent for the degree distribution:	2
+exponent for the community size distribution:	1
+mixing parameter:	0.1
+number of overlapping nodes:	0
+number of memberships of the overlapping nodes:	0
+**************************************************************
+
+-----------------------------------------------------------
+community size range automatically set equal to [12 , 20]
+building communities... 
+connecting communities... 
+recording network...
+
+
+---------------------------------------------------------------------------
+network of 50 vertices and 740 edges;	 average degree = 14.8
+
+average mixing parameter (in-links): 0.0882071 +/- 0.0411697
+average mixing parameter (out-links): 0.0887619 +/- 0.0506355
+p_in: 0.594378	p_out: 0.0560272
+
+
